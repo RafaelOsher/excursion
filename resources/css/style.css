@@ -32,3 +32,9 @@ body {
     font-size: 21px;
     text-align: right;
 }
+
+/* IMAGES */
+.img--camp {
+    height: auto;
+    width: 100%;
+}
