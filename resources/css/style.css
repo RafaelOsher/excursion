@@ -36,5 +36,5 @@ body {
 /* IMAGES */
 .img--camp {
     height: auto;
-    width: 100%;
+    min-width: 100%;
 }
